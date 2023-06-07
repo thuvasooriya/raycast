@@ -13,5 +13,5 @@
 # @raycast.author Thuva Sooriya
 # @raycast.authorURL https://github.com/thuvasooriya
 
-open -n "/Users/tony/Applications/Orion/WebApps/$1.app"
+open -n "$HOME/Applications/Orion/WebApps/$1.app"
 
